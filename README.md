@@ -1,4 +1,4 @@
-# TomatoBox Inventory Management WebApp
+# Tomato Box Inventory Management WebApp
 The TomatoBox Inventory Management WebApp is a comprehensive tool that assists intermediaries, known as "go-betweens," who play a crucial role between farm producers and merchants. This web application empowers go-betweens to efficiently manage their inventory of Tomato Boxes, enabling them to monitor stock levels with producers and merchants while tracking the boxes' condition. With customer registration, transaction logging, borrowed box tracking, and damage box management, go-betweens can make well-informed decisions, streamline operations, and foster strong relationships with producers and merchants.
 
 
