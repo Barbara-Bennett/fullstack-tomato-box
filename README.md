@@ -24,6 +24,10 @@ You can locate installations and configurations inside both the backend and fron
 
 
 
+
+
+
+
 ##
 ##
 ## TOMATO BOX MANAGEMENT SYSTEM USER MANUAL
@@ -33,6 +37,8 @@ Welcome to the Tomato Box Management System! This manual will provide you with i
 ## Home Page
 On the 'Home' page, you'll find a summary of information about the tomato boxes, including the total count of premium and common boxes in possession of producers, merchants, and the storehouse.
 
+<img width="1432" alt="Screenshot 2023-08-14 at 9 53 20 PM" src="https://github.com/Barbara-Bennett/tomato-box/assets/97815099/b29fb923-b3c2-4b86-a29c-4c9def1cc90c">
+
 
 ## Producers Page
 On this page, you can manage registered producers. The following operations are available:
@@ -40,6 +46,8 @@ On this page, you can manage registered producers. The following operations are 
 - Edit information on existing producers
 - Delete producers
 - View the quantity of premium and common boxes held by each producer
+  
+<img width="1431" alt="Screenshot 2023-08-14 at 9 55 27 PM" src="https://github.com/Barbara-Bennett/tomato-box/assets/97815099/5656afa7-2868-4daf-87ff-1847e1140ca0">
 
 
 ## Merchants Page
@@ -48,6 +56,8 @@ Here, you can manage registered merchants. The following operations are availabl
 - Edit information on existing merchants
 - Delete merchants
 - View the quantity of premium and common boxes held by each merchant
+  
+<img width="1438" alt="Screenshot 2023-08-14 at 9 56 12 PM" src="https://github.com/Barbara-Bennett/tomato-box/assets/97815099/b962b14b-988f-4a93-9ee1-36356fd864a6">
 
 
 ## Producers Transactions Page
@@ -61,7 +71,9 @@ There are two types of transactions available:
 - Devolution: Receive back boxes from a producer, decreasing the box count of the selected producer and the total box count in the 'Box Inventory.'
 
 Observation:
-You can update the information of each transaction, except for the producer, transaction type, and box type selected during the transaction creation. 
+You can update the information of each transaction, except for the producer, transaction type, and box type selected during the transaction creation.
+
+<img width="1436" alt="Screenshot 2023-08-14 at 9 59 05 PM" src="https://github.com/Barbara-Bennett/tomato-box/assets/97815099/c54a71ea-a057-4ab1-89c9-1fee8bf9b185">
 
 
 ## Merchants Transactions Page
@@ -76,6 +88,8 @@ There are two types of transactions available:
 
 Observation:
 You can update the information of each transaction, except for the merchant, transaction type, and box type selected during the transaction creation.
+
+<img width="1434" alt="Screenshot 2023-08-14 at 9 59 40 PM" src="https://github.com/Barbara-Bennett/tomato-box/assets/97815099/ba0716cb-3866-4655-ae8b-b5328b7290c2">
 
 
 ## Box Inventory Page
@@ -96,6 +110,8 @@ Functionality:
 
 Observation
 - Deletion operations are irreversible. Be cautious when deleting producers, merchants, or transactions.
+
+<img width="1435" alt="Screenshot 2023-08-14 at 10 00 01 PM" src="https://github.com/Barbara-Bennett/tomato-box/assets/97815099/6d056f9e-80f3-4282-ba0b-e6243bb4bd94">
 
 
 ##
