@@ -7,7 +7,7 @@ This README provides an overview of the TomatoBox Inventory Management WebApp, i
 
 
 ## Accessing the Web Application
-[https://tomatobox.vercel.app/](https://tomatobox.vercel.app/)
+[https://tomato-box-fddde14a4e67.herokuapp.com/](https://tomato-box-fddde14a4e67.herokuapp.com/)
 
 
 ## Project Structure
